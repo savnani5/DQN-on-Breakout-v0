@@ -1,0 +1,17 @@
+Dependencies Required:
+
+1) OpenAI Gym
+2) Cv2
+3) Numpy
+4) PyTorch - CUDA version
+5) wandb
+6) Matplotlib
+7) dataclasses
+8) tqdm
+9) typing 
+
+
+In the directory DQN_on_CartPole-v1: 
+
+1) Run following command in the terminal to run the simulated agent:
+ 	python new_agent.py
