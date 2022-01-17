@@ -26,7 +26,7 @@ non-linearity. The final hidden layer is fully connected and consists of 256 rec
 ---
 ## Simulation
 Please refer to [this link](https://drive.google.com/drive/folders/1Dal_qOqrQoGFAZdeixM6TL_GMnfB24o4) for the simulation videos
-### Before Training ----------------------------------------------- After Training
+###      Before Training ---------------------------------------- After Training
 <img src="git_gifs/before.gif" width="350" height="450">     <img src="git_gifs/after.gif" width="350" height="450">
 
 
@@ -42,3 +42,15 @@ video simulation.
 
 ---
 ## Referenes
+[1] Open AI gym Environment Documentation [link](https://gym.openai.com/docs/)
+[2] PyTorch API Tutorials [link](https://pytorch.org/tutorials/index.html)
+[3] ImageNet Classification with Deep Convolutional Neural Networks – Alex Krizhevsky [link]()
+[4] Reinforcement Learning: An Introduction – Richard S. Sutton and Andrew G. Barto [link](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+[5] An Introduction to Markov Decision Processes – Bob Givan and Ron Parr [link](https://www.cs.rice.edu/~vardi/dag01/givan1.pdf)
+[6] Deep Reinforcement Learning – David Silver – Google Deepmind [link](https://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
+[7] Residual algorithms: Reinforcement learning with function approximation [link](http://www.cs.utsa.edu/~bylander/cs6243/baird95residual.pdf)
+[8] A neuro-evolution approach to general Atari game playing [link](https://www.cs.utexas.edu/~mhauskn/papers/atari.pdf)
+[9] Actor-critic reinforcement learning with energy-based policies [link](https://proceedings.mlr.press/v24/heess12a/heess12a.pdf)
+[10] Deep Reinforcement Learning in Action – GitHub Repository [link](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction)
+[11] Bayesian Learning of recursively factored environments – Marc Bellamare, Joel Veness, [link](https://proceedings.mlr.press/v28/bellemare13.html)
+[12] Machine Learning for Aerial Image Labeling - Volodymyr Mnih’s thesis [link](https://www.cs.toronto.edu/~vmnih/docs/Mnih_Volodymyr_PhD_Thesis.pdf)
