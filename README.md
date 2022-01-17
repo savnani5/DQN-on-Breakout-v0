@@ -43,26 +43,26 @@ video simulation.
 ---
 ## Referenes
 
-[1] Open AI gym Environment Documentation [link](https://gym.openai.com/docs/)
+[1] [Open AI gym Environment Documentation](https://gym.openai.com/docs/)
 
-[2] PyTorch API Tutorials [link](https://pytorch.org/tutorials/index.html)
+[2] [PyTorch API Tutorials](https://pytorch.org/tutorials/index.html)
 
-[3] ImageNet Classification with Deep Convolutional Neural Networks – Alex Krizhevsky [link]()
+[3] [ImageNet Classification with Deep Convolutional Neural Networks – Alex Krizhevsky]()
 
-[4] Reinforcement Learning: An Introduction – Richard S. Sutton and Andrew G. Barto [link](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+[4] [Reinforcement Learning: An Introduction – Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
-[5] An Introduction to Markov Decision Processes – Bob Givan and Ron Parr [link](https://www.cs.rice.edu/~vardi/dag01/givan1.pdf)
+[5] [An Introduction to Markov Decision Processes – Bob Givan and Ron Parr](https://www.cs.rice.edu/~vardi/dag01/givan1.pdf)
 
-[6] Deep Reinforcement Learning – David Silver – Google Deepmind [link](https://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
+[6] [Deep Reinforcement Learning – David Silver – Google Deepmind](https://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
 
-[7] Residual algorithms: Reinforcement learning with function approximation [link](http://www.cs.utsa.edu/~bylander/cs6243/baird95residual.pdf)
+[7] [Residual algorithms: Reinforcement learning with function approximation](http://www.cs.utsa.edu/~bylander/cs6243/baird95residual.pdf)
 
-[8] A neuro-evolution approach to general Atari game playing [link](https://www.cs.utexas.edu/~mhauskn/papers/atari.pdf)
+[8] [A neuro-evolution approach to general Atari game playing](https://www.cs.utexas.edu/~mhauskn/papers/atari.pdf)
 
-[9] Actor-critic reinforcement learning with energy-based policies [link](https://proceedings.mlr.press/v24/heess12a/heess12a.pdf)
+[9] [Actor-critic reinforcement learning with energy-based policies](https://proceedings.mlr.press/v24/heess12a/heess12a.pdf)
 
-[10] Deep Reinforcement Learning in Action – GitHub Repository [link](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction)
+[10] [Deep Reinforcement Learning in Action – GitHub Repository](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction)
 
-[11] Bayesian Learning of recursively factored environments – Marc Bellamare, Joel Veness, [link](https://proceedings.mlr.press/v28/bellemare13.html)
+[11] [Bayesian Learning of recursively factored environments – Marc Bellamare, Joel Venes](https://proceedings.mlr.press/v28/bellemare13.html)
 
-[12] Machine Learning for Aerial Image Labeling - Volodymyr Mnih’s thesis [link](https://www.cs.toronto.edu/~vmnih/docs/Mnih_Volodymyr_PhD_Thesis.pdf)
+[12] [Machine Learning for Aerial Image Labeling - Volodymyr Mnih’s thesis](https://www.cs.toronto.edu/~vmnih/docs/Mnih_Volodymyr_PhD_Thesis.pdf)
