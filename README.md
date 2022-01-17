@@ -26,10 +26,8 @@ non-linearity. The final hidden layer is fully connected and consists of 256 rec
 ---
 ## Simulation
 Please refer to [this link](https://drive.google.com/drive/folders/1Dal_qOqrQoGFAZdeixM6TL_GMnfB24o4) for the simulation videos
-###      Before Training 
-<img src="git_gifs/before.gif" width="350" height="450">     
-###     After Training
-<img src="git_gifs/after.gif" width="350" height="450">
+###      Before Training  <img src="git_gifs/before.gif" width="350" height="450">     
+###      After Training   <img src="git_gifs/after.gif" width="350" height="450">
 
 
 ---
