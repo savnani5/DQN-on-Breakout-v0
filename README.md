@@ -1,7 +1,6 @@
 # DQN_on_Breakout-v0
 
-In this project we try to learn the control policies from high dimensional sensory input space (image3D) using reinforcement learning. It combines the state-of-the-art Convolutional Neural Network of 2013 with Q learning with raw pixels as inputs and estimated future states/actions as outputs. This method is validated on the Atari environment in OpenAI Gym with PyTorch as the deep learning framework. Also, it was a groundbreaking work by Deep Mind in the field of RL because it outperformed human experts and gave us new insights on how AI agents can discover novel ways of playing these games. 
-For detailed report checkout [this link](https://github.com/savnani5/DQN_on_Breakout-v0/blob/main/Report.pdf).
+In this project we try to learn the control policies from high dimensional sensory input space (image3D) using reinforcement learning. It combines the state-of-the-art Convolutional Neural Network of 2013 with Q learning with raw pixels as inputs and estimated future states/actions as outputs. This method is validated on the Atari environment in OpenAI Gym with PyTorch as the deep learning framework. Also, it was a groundbreaking work by Deep Mind in the field of RL because it outperformed human experts and gave us new insights on how AI agents can discover novel ways of playing these games. For detailed report checkout [this link](https://github.com/savnani5/DQN_on_Breakout-v0/blob/main/Report.pdf).
 
 ---
 ## Methodology
